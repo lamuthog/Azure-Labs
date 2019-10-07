@@ -1,10 +1,8 @@
 # Welcome to the LinuxConf Azure Labs
 
-To start you need to redeem your azure pass [here](https://www.microsoftazurepass.com)
 
 
-
-## Pre-work (optional)
+## GIT and Azure Repos (optional)
 
 
 
@@ -22,6 +20,8 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
  
 
 ## Continuous Delivery
+
+To start you need to redeem your azure pass [here](https://www.microsoftazurepass.com)
 
 [Embracing Continuous Delivery with Azure Pipelines](https://azuredevopslabs.com/labs/azuredevops/continuousdeployment/)
 
