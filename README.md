@@ -1,8 +1,8 @@
-# Welcome to the LinuxConf Azure Labs
+# Welcome to the OpenSource Week Azure Labs
 
 
 
-## GIT and Azure Repos (optional)
+## GIT and Azure Repos (Introduction)
 
 
 
@@ -20,8 +20,6 @@
  
 
 ## Continuous Delivery
-
-To start you need to redeem your azure pass [here](https://www.microsoftazurepass.com)
 
 [Embracing Continuous Delivery with Azure Pipelines](https://azuredevopslabs.com/labs/azuredevops/continuousdeployment/)
 
