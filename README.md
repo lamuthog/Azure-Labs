@@ -27,4 +27,4 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 
 
-# [Additional Resources](https://aka.ms/linuxconf)
+# [Additional Resources](https://aksworkshop.io)
