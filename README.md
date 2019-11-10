@@ -3,7 +3,7 @@
 
 ## Azure Fundementals
 1. [MS Learning path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals)
-2. [World-Wind tour of Azure](https://github.com/roryp/fundementals/blob/master/Azure%20Fundamentals.pdf)
+2. [whirlwind tour of Azure](https://github.com/roryp/fundementals/blob/master/Azure%20Fundamentals.pdf)
 
 ## Introduction to GIT and Azure Repos (Optional)
 
