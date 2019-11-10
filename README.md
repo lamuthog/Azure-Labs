@@ -24,5 +24,7 @@
 [Embracing Continuous Delivery with Azure Pipelines](https://azuredevopslabs.com/labs/azuredevops/continuousdeployment/)
 
 
+## App Insights and Devops
+[Monitoring Application Performance with Application Insights](https://azuredevopslabs.com/labs/azuredevops/appinsights)
 
 # [Additional Resources](https://aksworkshop.io)
