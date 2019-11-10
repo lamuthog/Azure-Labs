@@ -1,4 +1,4 @@
-# Welcome to the OpenSource Week Azure Labs
+# Welcome to the Azure Devops Labs
 
 
 
