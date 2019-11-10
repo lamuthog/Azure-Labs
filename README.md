@@ -1,10 +1,11 @@
 # Welcome to the Azure Devops Labs
 
 
+## Azure Fundementals
+1. [MS Learning path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals)
+2. [World-Wind tour of Azure](https://github.com/roryp/fundementals/blob/master/Azure%20Fundamentals.pdf)
 
-## GIT and Azure Repos (Optional)
-
-
+## Introduction to GIT and Azure Repos (Optional)
 
 1. [Version Controlling with Azure Repos](https://azuredevopslabs.com/labs/azuredevops/git/)
 2. [Working with Pull Requests in VS Code and Azure DevOps](https://azuredevopslabs.com/labs/azuredevops/pullrequests/)
