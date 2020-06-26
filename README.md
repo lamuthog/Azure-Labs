@@ -1,7 +1,7 @@
 # Welcome to the Azure Devops Labs
 
 
-## Azure Fundementals
+## Azure Fundamentals
 1. [MS Learning path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals)
 2. [whirlwind tour of Azure](https://github.com/roryp/fundementals/blob/master/Azure%20Fundamentals.pdf)
 
